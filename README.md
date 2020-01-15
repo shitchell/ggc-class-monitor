@@ -44,7 +44,7 @@ https://ggc.gabest.usg.edu/StudentRegistrationSsb/ssb/searchResults/getEnrollmen
 
 **Available Terms** *html*  
 https://ggc.gabest.usg.edu/pls/B400/bwckctlg.p_disp_dyn_ctlg  
-*Optionally, each term has an ID that matches the pattern $year$id, where $year is the term year and $id is 02, 05, or 08 for the Spring, Summer, and Fall semesters respectively*
+*Optionally, each term has an ID that matches the pattern $year$id, where $year is the term year and $id is 02, 05, or 08 for the Spring, Summer, and Fall semesters respectively. EG: Spring 2020 is 202002, Summer 2018 is 201805.*
 
 **Available Disciplines** *html*  
 https://ggc.gabest.usg.edu/pls/B400/bwckctlg.p_display_courses?term_in=202005&call_proc_in=bwckctlg.p_disp_dyn_ctlg&sel_subj=dummy&sel_levl=dummy&sel_schd=dummy&sel_coll=dummy&sel_divs=dummy&sel_dept=dummy&sel_attr=dummy
